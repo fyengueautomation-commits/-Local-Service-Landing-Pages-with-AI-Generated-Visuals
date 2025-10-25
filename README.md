@@ -1,0 +1,2 @@
+# -Local-Service-Landing-Pages-with-AI-Generated-Visuals
+Designed two AI-enhanced landing pages for local services — home cleaning and dog grooming — using Lovable.dev.. Each page features custom visuals, clear calls to action, and testimonial sections to build trust and drive bookings. The project demonstrates how AI tools can support small businesses with professional, conversion-ready web design.
